@@ -4,11 +4,11 @@
 
 ## Get a copy of source code
 
-> **Clone the InstaBook (from the `main` branch) and `cd ` into the directory.**
+> **Clone the BizCoding (from the `main` branch) and `cd ` into the directory.**
 
 ```sh
-git clone -b https://github.com/Bhavik-Ardeshna/InstaBook.git
-cd socialClone
+git clone -b https://github.com/Bhavik-Ardeshna/CodingAdda.git
+cd BizCoding
 ```
 
 ## Step to run InstaBook in local machine
@@ -16,7 +16,8 @@ cd socialClone
 > **Step to run `virtualenv`**
 
 ```sh
-source bin/activate
+python -m venv env
+source env/bin/activate
 ```
 
 > **Install all Dependencies `requirements.txt`**
@@ -28,6 +29,6 @@ pip3 install requirements.txt
 > **Start `Django project`**
 
 ```sh
-cd ../social_clone_app
+cd bizcoding
 python3 manage.py runserver
 ```
