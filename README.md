@@ -1,8 +1,6 @@
 # BizCoding 👋
 
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/>
-
-<img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/>
+<img src="https://github.com/Bhavik-Ardeshna/CodingAdda/blob/main/assests/programming.gif"/>
 
 ## Get a copy of source code
 
