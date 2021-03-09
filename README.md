@@ -11,7 +11,7 @@ git clone -b https://github.com/Bhavik-Ardeshna/CodingAdda.git
 cd BizCoding
 ```
 
-## Step to run InstaBook in local machine
+## Step to run BizCoding in local machine
 
 > **Step to run `virtualenv`**
 
@@ -29,6 +29,6 @@ pip3 install requirements.txt
 > **Start `Django project`**
 
 ```sh
-cd bizcoding
+cd BizCoding
 python3 manage.py runserver
 ```
